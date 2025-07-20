@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Pavan Yata
 
-<!--
-**yatapavan007/yatapavan007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech IT Graduate | 💻 Java Developer | 🌱 Currently learning Spring Boot + React
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Java, JDBC, Servlets, JSP
+- Oracle SQL, PL/SQL
+- Spring Boot, REST APIs
+- HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔨 Projects
+- 💼 Online Banking System (JSP + JDBC + Oracle)
+- 🎓 Student Management System
+- 📘 Bookstore Management (CRUD + Auth)
+  
+
